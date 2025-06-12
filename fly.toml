@@ -1,0 +1,5 @@
+app = "my-telegram-bot"
+primary_region = "lhr"
+
+[build]
+  builder = "Dockerfile"
